@@ -1,0 +1,12 @@
+>> for 1st time need to configure github in our system
+git config --global user.name "Web1Legacy"
+
+git config --global user.email "vedantk674@gmail.com"
+
+git config --global color.ui auto
+
+Mandatory Commands:
+>>git init
+>>git remote add origin https://github.com/Web1Legacy/gitdemo.git
+
+git pull origin main
