@@ -10,3 +10,10 @@ Mandatory Commands:
 >>git remote add origin https://github.com/Web1Legacy/gitdemo.git
 
 git pull origin main
+
+git status
+
+git add .
+git status
+git commit -m "Commit Message"
+git push
