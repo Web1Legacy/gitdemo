@@ -17,3 +17,10 @@ git add .
 git status
 git commit -m "Commit Message"
 git push
+
+
+Create a New Branch
+>> git checkout -b "BranchName"
+
+Switch branch
+>> git checkout "BranchNameWhichNeedToBeSwitched"
